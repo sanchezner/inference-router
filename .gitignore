@@ -1,0 +1,12 @@
+/bin/
+*.exe
+*.test
+*.out
+
+coverage.out
+coverage.html
+
+go.work
+go.work.sum
+
+.DS_Store
